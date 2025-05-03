@@ -1,6 +1,6 @@
 import './App.css'
 import Navbar from './Navbar/Navbar'
-import Hero from './Hero/hero'
+import Hero from './Hero/Hero'
 import Cards from './Cards/Cards'
 import Footer from './Footer/Footer'
 
